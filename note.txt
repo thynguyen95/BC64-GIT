@@ -1,0 +1,7 @@
+1. Bước 1: 
+  + đứng tại nhánh main thêm 1 dòng html. 
+  + sau đó push lên nhánh main. 
+
+Bước 2: checkout qua nhánh của mình. thêm 1 dòng 1 html. sau đó push lên nhánh của mình.
+
+Bước 3: tạo pull request.
